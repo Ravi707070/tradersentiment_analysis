@@ -128,6 +128,7 @@ matplotlib
 seaborn
 streamlit
 pyarrow
+```
 
 ##Project Structure
 primetrade-trader-sentiment-analysis/
@@ -137,7 +138,7 @@ primetrade-trader-sentiment-analysis/
 ├── outputs/
 ├── requirements.txt
 └── README.md
-🎯 Conclusion
 
+##Conclusion
 Market sentiment influences trader behavior and performance.
 Incorporating sentiment-aware risk controls and trader segmentation can improve stability and enhance returns in sentiment-driven market conditions.
